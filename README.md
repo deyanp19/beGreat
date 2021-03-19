@@ -1,32 +1,18 @@
 ##### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
- 
-
 In the project directory, you can run:
+##### `yarn start`    Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-### `yarn build`
-
-  The project will have
- -login
+`Project-1` will have
+  - login
   - dispatcher board
- - links to google maps
+  - links to google maps
   - data tables with loads
   - profiles
   - average prices
-
- 
-Create website for fighter jets. 
+`Project-2` Create website for fighter jets. 
 concept:
-
- 
 pages with pictures of different jets 
 statistics about :
 ### 1. Production -some statistics from wikipedia
@@ -36,4 +22,8 @@ statistics about :
 #### 4.1. Comment section
 #### 4.2. Like buttons
 #### 4.3. Views of the page. Count each time the page is loaded in intervals of 5 minutes
- 
+
+
+Used site for flavicon convertion https://www.icoconverter.com/
+ ##### SCREENSHOT 
+ <img src="public/screenshots/ScreenshotFrontPage-1.jpg">
