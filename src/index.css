@@ -26,7 +26,9 @@ footer {
 .center-body {
   height: 200px;
   width:auto;
-  background-color: rgba(85, 187, 247, 0.986);
+  background-color: 
+  #0968e598;
+  border-radius: 25px;
  
 }
 .center-body p {
