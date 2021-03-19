@@ -1,3 +1,5 @@
+ ##### SCREENSHOT /CLICK FOR LARGER/
+ <img src="public/screenshots/ScreenshotFrontPage-1.png" width="250"/>
 ##### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -26,5 +28,3 @@ statistics about :
 
 
 Used site for flavicon convertion https://www.icoconverter.com/
- ##### SCREENSHOT 
- <img src="public/screenshots/ScreenshotFrontPage-1.png" width="200"/>
