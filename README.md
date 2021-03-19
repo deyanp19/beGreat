@@ -27,4 +27,4 @@ statistics about :
 
 Used site for flavicon convertion https://www.icoconverter.com/
  ##### SCREENSHOT 
- <img src="public/screenshots/ScreenshotFrontPage-1.png" width="100"/>
+ <img src="public/screenshots/ScreenshotFrontPage-1.png" width="200"/>
