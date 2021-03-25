@@ -36,3 +36,7 @@ footer {
   padding: 1rem;
   font-size: small;
 }
+nav {
+  padding: 20px;
+  position: static;
+}
