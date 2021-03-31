@@ -18,11 +18,22 @@ img {
   height: 100px;
   width: 200px;
 } 
-footer {
-    position: bottom;
-    font-size: .7rem;
-  }
 
+  footer {
+    position: fixed;
+    margin: 20px;
+    padding-top: 10px;
+    /* display: flex; */
+    align-items: center;
+    height: 4rem;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(128, 128, 128, 0.152);
+    text-align: center;
+    font-size: .7rem;
+    
+  }
 .center-body {
   height: 200px;
   width:auto;
@@ -31,7 +42,12 @@ footer {
   border-radius: 25px;
  
 }
-.center-body p {
+.center-body p  {
+  text-align: justify;
+  padding: 1rem;
+  font-size: small;
+}
+.center-body ul li  {
   text-align: justify;
   padding: 1rem;
   font-size: small;
